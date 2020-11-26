@@ -12,11 +12,11 @@ AWSCLOUDFORMATIONCONFIG="{\
 \"configLevel\":\"project\",\
 \"useProfile\":false,\
 \"profileName\":\"default\",\
-\"region\":\"eu-central-1\"\
+\"region\":\"eu-west-1\"\
 }"
 AMPLIFY="{\
-\"projectName\":\"graph1\",\
-\"appId\":\"d1f7qgu6u0oisg\",\
+\"projectName\":\"angularAmplify\",\
+\"appId\":\"d1begjsu77wh40\",\
 \"envName\":\"dev\",\
 \"defaultEditor\":\"code\"\
 }"
